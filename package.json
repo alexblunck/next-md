@@ -1,0 +1,22 @@
+{
+  "name": "@blunck/next-md",
+  "version": "1.0.0",
+  "description": "Import markdown files in your Next.js project",
+  "main": "index.js",
+  "repository": "alexblunck/next-md",
+  "keywords": [
+    "nextjs",
+    "markdown-loader",
+    "markdown"
+  ],
+  "author": "Alexander Blunck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexblunck/next-md/issues"
+  },
+  "homepage": "https://github.com/alexblunck/next-md#readme",
+  "dependencies": {
+    "html-loader": "0.5.5",
+    "markdown-loader": "4.0.0"
+  }
+}
